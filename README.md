@@ -33,9 +33,9 @@ The last important thing in the model deploy I used python to build a simple GUI
 
 1-I recommend using [nbviewer](https://nbviewer.jupyter.org/) to view the Jupyter Notebook.
 
-2-week1 presentation
+2-week1 presentation [week-1(https://github.com/hamzakmj/King-County-House-Price/blob/main/week1/House%20prices%20presentation%20.pptx/)
 
-2-week2 presentation
+2-week2 presentation [week-2](https://github.com/hamzakmj/King-County-House-Price/blob/main/week2/Final%20Presentation.pdf/)
 
 3-use this easy this to install all libraries need it for this project
 
