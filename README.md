@@ -31,7 +31,7 @@ The last important thing in the model deploy I used python to build a simple GUI
 ## help notes:
 0-if you want week 2 to launch you have to lunch week 1 which will create two file models.pkl and data-fixed then lunch the #2 to see the GUI :)
 
-1-use this page to see the notebooks
+1-use this page to see the notebooks https://nbviewer.org/
 
 2-week1 presentation
 
