@@ -28,7 +28,8 @@ so we tried a lot of models the last one is the best because it uses the gradien
 you can find it here 
 The last important thing in the model deploy I used python to build a simple GUI for a user to predict house price (i mean it takes 3 days first GUI I think is good but not perfect in the future i will finish it in sha Allah
 
-## elp notes:
+## help notes:
+
 1-use this page to see the notebooks
 2-week1 presentation
 2-week2 presentation
