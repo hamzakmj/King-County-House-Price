@@ -1,10 +1,8 @@
 # King-County-House-Price
 ## price-prediction:)
 
-so this project is aimed towards predicting house prices in 2016/2017/2018
-the data I have is for  kings county in Washington State (u.s.a)
-and just for the year 2014/2015 small data I know lol
-so the project is separated for two weeks.
+The goal of this project is to predict house prices in 2016, 2017, and 2018 using data from Kings County, Washington State, USA for the years 2014 and 2015. The project will be completed over a two-week period despite the limited data available.
+
 # week (1)
 which represent the first there points in making a model roadmap.
 ### 1-Problem Definition
