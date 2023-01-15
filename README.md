@@ -48,7 +48,8 @@ the requirements.txt is up to have to download it then lunch terminal and run th
 |Name     |  GitHub   |
 |---------|-----------------|
 |hamza jahamah |https://github.com/nadinezab|
-
+|Feras AlQrinawi|https://github.com/Ferasqr|
+|Abdullah Khader|https://github.com/Abdalla-khader|
 ## Contact
 
 * If you have any questions, you can contact me at hamza.jahama@gmail.com
