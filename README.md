@@ -31,8 +31,13 @@ The last important thing in the model deploy I used python to build a simple GUI
 ## help notes:
 
 1-use this page to see the notebooks
+
 2-week1 presentation
+
 2-week2 presentation
+
 3-use this easy this to install all libraries need it for this project
+
   -pip install -r requirements.txt
+  
 the requirements.txt is up to have to download it then lunch terminal and run the above command 
